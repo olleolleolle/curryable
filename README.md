@@ -1,7 +1,7 @@
 Curryable
 =========
 
-## What is a command object?
+## What is a command object?
 
 An object (noun) that acts as a container for a function (verb).
 
